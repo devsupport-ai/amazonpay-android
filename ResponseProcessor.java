@@ -1,4 +1,4 @@
-package {{ =it.packageName }};
+package {{=it.packageName}};
 
 import android.util.Log;
 
