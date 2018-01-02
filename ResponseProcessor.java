@@ -1,4 +1,4 @@
-package {{=it.packageName}};
+package com.amazon;
 
 import android.util.Log;
 
